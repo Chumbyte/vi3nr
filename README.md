@@ -1,8 +1,8 @@
 # VI3NR: Variance Informed Initialization for Implicit Neural Representations (_CVPR 2025_)
 
-[Chamin Hewa Koneputugodage*](https://www.linkedin.com/in/chamin-hewa-koneputugodage-b3ba17148/), [Yizhak Ben-Shabat (Itzik)*](http://www.itzikbs.com), [Sameera Ramasinghe](https://www.linkedin.com/in/sameeraramasinghe/) and [Stephen Gould](http://users.cecs.anu.edu.au/~sgould/) from [ANU](https://www.anu.edu.au/), [Technion](https://www.technion.ac.il/) and [Pluralis AI](https://pluralis.ai/).
+[Chamin Hewa Koneputugodage*](https://www.linkedin.com/in/chamin-hewa-koneputugodage-b3ba17148/), [Yizhak Ben-Shabat (Itzik)*](http://www.itzikbs.com), [Sameera Ramasinghe](https://www.linkedin.com/in/sameeraramasinghe/) and [Stephen Gould](http://users.cecs.anu.edu.au/~sgould/) from [ANU](https://www.anu.edu.au/), [Roblox](https://research.roblox.com/) and [Pluralis AI](https://pluralis.ai/).
 
-__[Project page](https://chumbyte.github.io/vi3nr-site/)&nbsp;/ [Arxiv](https://arxiv.org/abs/2504.19270)__
+__[Project page](https://chumbyte.github.io/vi3nr-site/)&nbsp;/ [Arxiv](https://arxiv.org/abs/2504.19270)&nbsp;/ [Video](https://www.youtube.com/watch?v=md6q-zAjmSU&ab_channel=anucvml)__
 
 ## Introduction
 This is the code for Variance Informed Initialization for Implicit Neural Representations (VI3NR).
@@ -71,7 +71,7 @@ In practice, i.e. task performance, we find that the choice of `sigma_p` matters
 
 ## Thanks
 
-Y. Ben-Shabat is supported by the Marie Sklodowska-Curie grant agreement No. 893465 S. Gould is a recipient of an ARC Future Fellowship (proj. no. LP200100421)
+S. Gould is a recipient of an ARC Future Fellowship (proj. no. LP200100421)
 funded by the Australian Government.
 
 ## Citation
